@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Luma 1.0.0",
+  "pub_date": "2026-09-07T16:04:53.729Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWl1ZmNNckZBS0Z6Y1NFNGdiZXpXSWUzcTVoZmExNEZ2MCszRmNzcEVQS0xTcWlpUHErU0J0SDhlSTZhdi81cDJsejNmTHkrT1FFdmJ0NTFQOWkzUHNyRVFwYll1R0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk3MDY3CWZpbGU6THVtYV8xLjAuMF94NjQtc2V0dXAuZXhlCmRQWEV1b1JTT1pyK3c5RHJHZlZScVZqTzl5d2ZaaTNVeEV3ZDdNdCtNak5odnNqbDA3SkhWTExJREpTQm5vWnBVZkVSUmlFSDRHdGFJZlRLM2paZ0J3PT0K",
+      "url": "https://github.com/P-Anny/luma-updates/releases/download/adult-v1.0.0/adult-Luma_1.0.0_x64-setup.exe"
+    }
+  }
+}
