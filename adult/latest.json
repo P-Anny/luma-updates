@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Luma 1.0.0",
-  "pub_date": "2026-09-07T16:04:53.729Z",
+  "version": "1.0.1",
+  "notes": "Luma 1.0.1",
+  "pub_date": "2026-09-10T17:51:46.681Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWl1ZmNNckZBS0Z6Y1NFNGdiZXpXSWUzcTVoZmExNEZ2MCszRmNzcEVQS0xTcWlpUHErU0J0SDhlSTZhdi81cDJsejNmTHkrT1FFdmJ0NTFQOWkzUHNyRVFwYll1R0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk3MDY3CWZpbGU6THVtYV8xLjAuMF94NjQtc2V0dXAuZXhlCmRQWEV1b1JTT1pyK3c5RHJHZlZScVZqTzl5d2ZaaTNVeEV3ZDdNdCtNak5odnNqbDA3SkhWTExJREpTQm5vWnBVZkVSUmlFSDRHdGFJZlRLM2paZ0J3PT0K",
-      "url": "https://github.com/P-Anny/luma-updates/releases/download/adult-v1.0.0/adult-Luma_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWl1ZmNNckZBS0xEWkNwVFVaSnpMZnBnajIzQXRBRnc0cU1zS0c1THN3YlJ5WmVhZWExV1RqbWpKZmpuWU9yMTZ0VFhtK2lmcjVNcjNzbkxmck1RR0YrSStWZFBPTVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYyNzA0CWZpbGU6THVtYV8xLjAuMV94NjQtc2V0dXAuZXhlCmR1TlM3ZzErZ2ZjQUFlOFo0U1pNanVlSWthMlpCc2VPNzRWelVzN3IzN3FDZmVta1RHaTdSZmtJMmFwdXh3ZEVUaW5xdndHYjdsNzdieXduTC9nYkRBPT0K",
+      "url": "https://github.com/P-Anny/luma-updates/releases/download/adult-v1.0.1/adult-Luma_1.0.1_x64-setup.exe"
     }
   }
 }
