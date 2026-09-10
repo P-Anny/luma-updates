@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "Luma Kids update",
-  "pub_date": "2026-09-10T20:16:34.862757+00:00",
+  "pub_date": "2026-09-10T21:22:14.320263+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXBqeGh1eS9wZ0VoTlA0S0EvOWJ4YXo0TkFyMXF2OVRsOGxBcC9Ncm9mK1dFeG1GTXp1TURHRGJEemlna0ZlbmlKSjFSbW8zbVVEVnp2NHFMUHRxdU51dmFUQmVTVWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDcxMzkzCWZpbGU6THVtYSBLaWRzXzAuMS4wX3g2NC1zZXR1cC5leGUKQzBDckg1VmJodUNRQXhaSVdjOUZMVERiY01kZGdjTzBNNTgzTHhBQmpMTkFZamVmdGNQUEpEWjgyMkV3WGdxMVhmSFU0WHZ5NkxlLzc0VkZVdUIrQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/P-Anny/luma-updates/main/kids/luma-kids-0.1.0-windows-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbXBqeGh1eS9wZ0Z0azlRZlpMa0tOcUlwazg5eFFUT3p0VFRoV3JKN1AvaTZKVkt2S2tacDJHaW5uMnMwdXgvRVdjUnhMOVNZbkQvdFBXeThYZGZiOVNYT3lQNW50VUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDc1MzMyCWZpbGU6THVtYSBLaWRzXzAuMS4xX3g2NC1zZXR1cC5leGUKOTVnMlJkOWdIdVpCT3RNMjlXRzFCUWtpWkdzSWFhcnp1aEhadi9TdHlaeWVLZW1DaHdHenRBQnlHR3lHcjR0V3Z4SStrNXAxQ3RBWUZJc0Ewb01oQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/P-Anny/luma-updates/main/kids/luma-kids-0.1.1-windows-x86_64-setup.exe"
     }
   }
 }
